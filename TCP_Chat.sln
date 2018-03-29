@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_Chat", "TCP_Chat\TCP_Chat.csproj", "{D9A0BFEA-A225-4EF2-BE99-3429512E13AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A0BFEA-A225-4EF2-BE99-3429512E13AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A0BFEA-A225-4EF2-BE99-3429512E13AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A0BFEA-A225-4EF2-BE99-3429512E13AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A0BFEA-A225-4EF2-BE99-3429512E13AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF6DA0EE-ADBA-4249-867A-CB81B7CBED67}
+	EndGlobalSection
+EndGlobal
